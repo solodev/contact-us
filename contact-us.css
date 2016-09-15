@@ -1,6 +1,8 @@
 #highlighted {
     position: relative;
     background-image: url("https://www.solodev.com/assets/flexslider/slide3.jpg");
+    background-repeat: none;
+    background-size: cover;
     height: 150px;
 }
 @media (min-width: 992px)
